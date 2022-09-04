@@ -1,6 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Next.jsの汎用サンプル
+### Next.js v12.2.0 / Mantine 5.2.5 / TailwindCSS
+
 ## Getting Started
+
+```sh
+git clone git@github.com:thousandbeach/next.js-12-using-typescript-mantine-tailwindcss-eslint-config-prettier-sample.git
+cd next.js-12-using-typescript-mantine-tailwindcss-eslint-config-prettier-sample
+yarn install
+yarn dev
+```
 
 First, run the development server:
 
@@ -18,7 +28,19 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## インストール済みパッケージ
+
+- Next.js v12.2.0
+- TypeScript
+- Mantine 5.2.5
+- TailwindCSS
+- ESLint
+- Prettier
+- Jest
+- axios 
+- Zustand
+
+## Next.js 公式ドキュメントは下記を参照のこと 
 
 To learn more about Next.js, take a look at the following resources:
 
