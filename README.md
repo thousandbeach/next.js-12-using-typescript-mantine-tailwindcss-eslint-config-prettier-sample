@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Next.jsの汎用サンプル
+## Next.jsの汎用サンプル と supabase の練習
 ### Next.js v12.2.0 / Mantine 5.2.5 / TailwindCSS
 
 ## Getting Started
